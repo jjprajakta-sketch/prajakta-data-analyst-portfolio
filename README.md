@@ -16,17 +16,15 @@ Skills
 
 Projects
 
-1. Superstore Sales Dashboard – Excel
+1.[https://github.com/jjprajakta-sketch/Meghastore-Finance-Report-/blob/main/Superstore.xlsx](https://github.com/jjprajakta-sketch/Meghastore-Finance-Report-/blob/main/Superstore.xlsx)
 
 An Excel dashboard project focused on sales analysis, business performance, and data visualization.
  2. Power BI Projects
 
-- Power BI Dashboard Project 1
-- Power BI Dashboard Project 2
-- Power BI Dashboard Project 3
-
- Contact
-
+-[https://github.com/jjprajakta-sketch/Twitter-Social-Media-Analytics-PowerBI](https://github.com/jjprajakta-sketch/Twitter-Social-Media-Analytics-PowerBI)
+[https://github.com/jjprajakta-sketch/Sales-Dashboard-PowerBI](https://github.com/jjprajakta-sketch/Sales-Dashboard-PowerBI)
+[https://github.com/jjprajakta-sketch/Medical-Analysis-Dashboard-PowerBI](https://github.com/jjprajakta-sketch/Medical-Analysis-Dashboard-PowerBI)
+ 
 Feel free to connect with me for job opportunities and collaborations.
 
 Mo.No :9822683629
