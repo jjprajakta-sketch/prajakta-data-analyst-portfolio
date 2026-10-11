@@ -22,7 +22,9 @@ An Excel dashboard project focused on sales analysis, business performance, and 
  2. Power BI Projects
 
 -[https://github.com/jjprajakta-sketch/Twitter-Social-Media-Analytics-PowerBI](https://github.com/jjprajakta-sketch/Twitter-Social-Media-Analytics-PowerBI)
+
 [https://github.com/jjprajakta-sketch/Sales-Dashboard-PowerBI](https://github.com/jjprajakta-sketch/Sales-Dashboard-PowerBI)
+
 [https://github.com/jjprajakta-sketch/Medical-Analysis-Dashboard-PowerBI](https://github.com/jjprajakta-sketch/Medical-Analysis-Dashboard-PowerBI)
  
 Feel free to connect with me for job opportunities and collaborations.
